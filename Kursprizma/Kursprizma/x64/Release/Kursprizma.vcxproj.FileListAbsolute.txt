@@ -1,0 +1,3 @@
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Kursprizma\x64\Release\Kursprizma.vcxproj.AssemblyReference.cache
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Kursprizma\x64\Release\Kursprizma.Prizma.resources
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Kursprizma\x64\Release\Kursprizma.vcxproj.GenerateResource.cache

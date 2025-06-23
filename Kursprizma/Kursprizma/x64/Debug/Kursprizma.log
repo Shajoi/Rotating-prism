@@ -1,0 +1,60 @@
+﻿  Prizma.cpp
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(168,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(171,50): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(184,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(185,27): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(186,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(187,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(190,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(191,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(192,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(194,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(195,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(196,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(197,54): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(197,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(199,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(200,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(201,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(202,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\Prizma.h(202,35): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Prizma.cpp")
+  
+  Prizma.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursprizma.vcxproj -> C:\Users\maxim\Desktop\zadania\strukt prog\Kursprizma\x64\Debug\Kursprizma.exe
